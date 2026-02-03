@@ -1,7 +1,8 @@
-# Internal Security Audit, Botium Toys (Fictional)
+# Internal Security Audit, Botium Toys 
 
-This repository contains a fictional internal security audit conducted using the
-NIST Cybersecurity Framework (NIST CSF).
+This repository contains an internal security audit completed as part of the
+Google Cybersecurity Certificate program, applying the NIST Cybersecurity Framework (NIST CSF)
+within a simulated organizational environment.
 
 ## 📂 Project Overview
 The objective of this project was to assess an organization's security posture,
