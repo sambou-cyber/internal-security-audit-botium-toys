@@ -7,24 +7,24 @@ NIST Cybersecurity Framework (NIST CSF).
 The objective of this project was to assess an organization's security posture,
 identify risks, and evaluate compliance with industry standards.
 
-## 🛡 Frameworks & Standards
+## Frameworks & Standards
 - NIST Cybersecurity Framework (CSF)
 - PCI DSS
 - GDPR
 - SOC (Type 1 / Type 2 concepts)
 
-## 📄 Artifacts
+## Artifacts
 - Botium_Toys_Scope_Goals_Risk_Assessment_Helvetica.pdf  
 - Checklist Botium_Toys_Controls_e_Audit_v2 (1)  
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 - Security risk assessment
 - Asset identification and classification
 - Control evaluation
 - Compliance analysis
 - Security documentation
 
-## 👨‍💻 About
+## About
 This project demonstrates hands on experience with cybersecurity governance,
 risk assessment, and compliance (GRC) activities.
 
