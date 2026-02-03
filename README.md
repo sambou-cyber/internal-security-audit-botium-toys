@@ -14,7 +14,7 @@ identify risks, and evaluate compliance with industry standards.
 - SOC (Type 1 / Type 2 concepts)
 
 ## Artifacts
-- Botium_Toys_Scope_Goals_Risk_Assessment_Helvetica.pdf  
+- Botium_Toys_Scope_Goals_Risk_Assessment_pdf  
 - Checklist Botium_Toys_Controls_e_Audit_v2 (1)  
 
 ## Skills Demonstrated
