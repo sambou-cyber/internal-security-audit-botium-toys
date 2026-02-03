@@ -16,7 +16,7 @@ identify risks, and evaluate compliance with industry standards.
 
 ## Artifacts
 - Botium_Toys_Scope_Goals_Risk_Assessment_pdf  
-- Checklist Botium_Toys_Controls_e_Audit_v2 (1)  
+- Checklist Botium_Toys_Controls_e_Audit.pdf 
 
 ## Skills Demonstrated
 - Security risk assessment
